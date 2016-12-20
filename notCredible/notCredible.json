@@ -1529,15 +1529,15 @@
     "type" : "unknown",
     "notes" : "website down"
   },
-  "" : {
-    "language" : "",
-    "type" : "",
-    "notes" : ""
+  "fairewinds.org" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : "It is run by Arnie Gundersen who spreads scare-mongering news about Fukushima without proper expert knowledge."
   },
-  "" : {
-    "language" : "",
-    "type" : "",
-    "notes" : ""
+  "enenews.com" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : "ENENEWS launched its site a week after Japan's Greate Tohoku Earthquake. The most of headlines are citing scare-mongering headlines about the Fukushima nuclear accident with fabricated information."
   },
   "" : {
     "language" : "",
